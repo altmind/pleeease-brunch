@@ -20,11 +20,11 @@
     "test": "mocha test"
   },
   "dependencies": {
-    "pleeease": "^4.0.1",
-    "deep-extend": "^0.4.1"
+    "deep-extend": "^0.4",
+    "pleeease": "https://github.com/iamvdo/pleeease.git"
   },
   "devDependencies": {
-    "mocha": "^2.2.5",
-    "should": "^7.0.3"
+    "mocha": "^2.2",
+    "should": "^7.0"
   }
 }
