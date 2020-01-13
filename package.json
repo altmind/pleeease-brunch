@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "deep-extend": "^0.6",
-    "pleeease": "https://github.com/iamvdo/pleeease.git#fcc3968f9ad8a88fe76533fc4d31df4672f82cd0"
+    "pleeease": "https://github.com/altmind/pleeease.git"
   },
   "devDependencies": {
     "mocha": "^2.2",
