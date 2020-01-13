@@ -381,10 +381,10 @@ decamelize@^1.1.1, decamelize@^1.1.2:
   resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
-deep-extend@^0.4:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.4.2.tgz#48b699c27e334bf89f10892be432f6e4c7d34a7f"
-  integrity sha1-SLaZwn4zS/ifEIkr5DL25MfTSn8=
+deep-extend@^0.6:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.6.0.tgz#c4fa7c95404a17a9c3e8ca7e1537312b736330ac"
+  integrity sha512-LOHxIOaPYdHlJRtCQfDIVZtfw/ufM8+rVj649RIHzcm/vGwQRXFt6OPqIFWsm2XEMrNIEtWR64sY1LEKD2vAOA==
 
 deep-extend@~0.3.0:
   version "0.3.3"
@@ -1289,7 +1289,7 @@ pleeease-filters@^2.0.0:
     onecolor "~2.4.0"
     postcss "^5.0.4"
 
-"pleeease@https://github.com/iamvdo/pleeease.git":
+"pleeease@https://github.com/iamvdo/pleeease.git#fcc3968f9ad8a88fe76533fc4d31df4672f82cd0":
   version "4.3.0"
   resolved "https://github.com/iamvdo/pleeease.git#fcc3968f9ad8a88fe76533fc4d31df4672f82cd0"
   dependencies:
